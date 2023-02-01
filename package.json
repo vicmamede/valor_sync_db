@@ -1,0 +1,16 @@
+{
+  "name": "sync_databases",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "mime-types": "^2.1.35",
+    "mysql": "^2.18.1",
+    "slugify": "^1.6.5"
+  },
+  "devDependencies": {
+    "@types/mysql": "^2.15.21"
+  }
+}
